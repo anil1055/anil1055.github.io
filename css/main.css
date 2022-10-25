@@ -3444,7 +3444,7 @@ Created using IcoMoon - icomoon.io
   margin-bottom: 20px;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
   .card .card-body {
-    min-height: 190px; }
+    min-height: 120px; }
   .card[data-background-color="orange"] {
     background-color: #378C3F; }
   .card[data-background-color="red"] {
@@ -3593,7 +3593,7 @@ Created using IcoMoon - icomoon.io
 
 .profile-page .title {
   text-align: center;
-  margin-top: 30px; }
+  margin-top: 20px; }
 
 .profile-page .description,
 .profile-page .category {
@@ -5205,7 +5205,7 @@ Created using IcoMoon - icomoon.io
 
 /* Experience Style */
 .cc-experience .cc-experience-header {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-right: 0;
   text-align: center;
   color: #fff;
@@ -5216,17 +5216,17 @@ Created using IcoMoon - icomoon.io
   margin-bottom: 0; }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-right: 0;
   text-align: center;
   color: #fff; }
 
 /* References Style */
 .cc-reference .card {
-  padding: 40px; }
+  padding: 20px; }
 
 .cc-reference img {
-  height: 120px;
+  height: 100px;
   width: auto; }
 
 .cc-reference .h5 {
